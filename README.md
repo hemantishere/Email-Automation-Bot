@@ -1,11 +1,11 @@
 # Email-Automation-Bot
 Voice Assistant based Email Bot designed to automate sending emails using python and smtp module.
 
-<h2>This Script takes input from the user using voice commands and can be changed to text by modifying the code.</h2>ython
+<h2>This Script takes input from the user using voice commands and can be changed to text by modifying the code.</h2>
 
 <h1> Requirements </h1>
-1. Python
-2. smtp module
+1. Python 3.0 and above
+2. Smtp module
 3. pyttsx3 module
 4. speech recoginition module
 5. Pyaudio module
