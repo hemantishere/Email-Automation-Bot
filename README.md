@@ -3,12 +3,12 @@ Voice Assistant based Email Bot designed to automate sending emails using python
 
 <h2>This Script takes input from the user using voice commands and can be changed to text by modifying the code.</h2>
 
-<h1> Requirements </h1>
-1. Python 3.0 and above
-2. Smtp module
-3. pyttsx3 module
-4. speech recoginition module
-5. Pyaudio module
+<ol><h1> Requirements </h1></ol>
+<li>Python 3.0 and above</li>
+<li>Smtp module</li>
+<li>pyttsx3 module</li>
+<li>Speech recoginition module</li>
+<li>Pyaudio module</li>
 
 <h1>Important - Turn on Less Secure App Access using this link - https://myaccount.google.com/lesssecureapps </h1>
 Without turning this on you wont be able to send email using scripts
